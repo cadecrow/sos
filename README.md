@@ -1,7 +1,7 @@
 # Machine learning model that classifies any food as a soup, salad, or a sandwhich !!!
 
-If you have never heard of the game, basically you can classify any food as a soup, salad or sandwhich.
-Just think about it. What are nachos? They are totally a salad, although they do have a few soupy qualities. </br>
+If you have never heard of the game, basically there is theory that you can classify any food as a soup, salad or sandwhich. Then you can argue with your friends over who is right and wrong.
+Just think about it. What are nachos? They are totally a salad! well... they do have some soupy qualities </br>
 
 If you don't believe me when I say this a real game that people play, please refer to: </br>
 https://saladtheory.github.io/ </br>
